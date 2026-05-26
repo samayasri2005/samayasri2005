@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Srivarun 👋
 
-<!--
-**samayasri2005/samayasri2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on:
+- AI Agents
+- RAG Systems
+- Autonomous Workflows
+- AI Automation
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Autonomous Multi-Agent Company
+Multi-agent orchestration system with memory, workflows, and task routing.
+
+### AI Second Brain
+Semantic retrieval and contextual memory system using RAG.
+
+### WhatsApp AI CRM
+AI-powered marketing and CRM automation platform.
+
+## Tech Stack
+Python • FastAPI • LangChain • PostgreSQL • MongoDB • Qdrant • GCP
+
+## Currently Building
+Advanced autonomous orchestration systems with persistent memory.
